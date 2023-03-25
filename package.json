@@ -1,0 +1,34 @@
+{
+  "name": "websockets",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "@types/ws": "^8.5.4",
+    "@vitejs/plugin-react": "3.1.0",
+    "typescript": "5.0.2",
+    "vite": "4.2.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "tscheck": "tsc"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanwarp/websockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanwarp/websockets/issues"
+  },
+  "homepage": "https://github.com/stanwarp/websockets#readme"
+}
